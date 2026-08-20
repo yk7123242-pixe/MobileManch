@@ -779,6 +779,78 @@
     }
   },
   {
+    "slug": "acer_iconia_one_8_b1_820-7217.php",
+    "name": "Acer Iconia One 8 B1-820",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/acer_iconia_one_8_b1_820-7217.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "opinions_url": "https://www.gsmarena.com/acer_iconia_one_8_b1_820-reviews-7217.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2015, April. Released 2015, May | 2015, April. Released 2015, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "213.9 x 127.7 x 9.5 mm (8.42 x 5.03 x 0.37 in)",
+        "Weight": "355 g (12.52 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "8.0 inches, 185.6 cm 2 (~67.9% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 5.0 (Lollipop)",
+        "Chipset": "Intel Atom Z3735G",
+        "CPU": "Quad-core 1.33 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "VGA"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4550 mAh, non-removable (17.2 Wh)",
+        "Talk time": "Up to 8 h 30 min (multimedia)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Price": "About 180 EUR"
+      }
+    }
+  },
+  {
     "slug": "acer_iconia_tab_10_a3_a30-7218.php",
     "name": "Acer Iconia Tab 10 A3-A30",
     "description": "",
@@ -2172,6 +2244,170 @@
       },
       "Misc": {
         "Colors": "Mystic Black, Pure White"
+      }
+    }
+  },
+  {
+    "slug": "acer_liquid_x1-6419.php",
+    "name": "Acer Liquid X1",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/acer_liquid_x1-6419.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/acer_liquid_x1-pictures-6419.php",
+    "opinions_url": "https://www.gsmarena.com/acer_liquid_x1-reviews-6419.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "3, 7",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2014, June. Released 2014, September | 2014, June. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.3 x 80.4 x 8.5 mm (6.04 x 3.17 x 0.33 in)",
+        "Weight": "164 g (5.78 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.7 inches, 89.6 cm 2 (~72.7% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~258 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "Chipset": "Mediatek MT6592 (28 nm)",
+        "CPU": "Octa-core 1.7 GHz Cortex-A7",
+        "GPU": "Mali-450MP4"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2700 mAh, removable",
+        "Stand-by": "Up to 250 h (3G)",
+        "Talk time": "Up to 6 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Graphite black, Wine red",
+        "Price": "About 260 EUR"
+      }
+    }
+  },
+  {
+    "slug": "acer_liquid_x2-8034.php",
+    "name": "Acer Liquid X2",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/acer_liquid_x2-8034.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/acer_liquid_x2-pictures-8034.php",
+    "opinions_url": "https://www.gsmarena.com/acer_liquid_x2-reviews-8034.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100 - Europe, Taiwan | HSDPA 850 / 1700(AWS) / 1900 - PA",
+        "4G bands": "LTE 800 / 1800 / 2100 / 2600 - Europe | LTE 700 / 900 / 1800 - Taiwan",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, April. Released 2016, February | 2015, April. Released 2016, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.3 x 78.8 x 8.5 mm (6.04 x 3.10 x 0.33 in)",
+        "Weight": "166 g (5.86 oz)",
+        "SIM": "Triple SIM (Micro-SIM)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm 2 (~69.0% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 5.1 (Lollipop)",
+        "Chipset": "Mediatek MT6753 (28 nm)",
+        "CPU": "Octa-core 1.3 GHz Cortex-A53",
+        "GPU": "Mali-T720MP4"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "32GB 3GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "13 MP, f/1.8, AF",
+        "Features": "LED flash"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes | 24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4020 mAh, removable",
+        "Stand-by": "Up to 820 h (3G)",
+        "Talk time": "Up to 23 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Gold",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 825Basemark X: 4300",
+        "Display": "Contrast ratio: 950 (nominal), 2.084 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 61dB / Noise 62dB / Ring 67dB",
+        "Audio quality": "Noise -86.1dB / Crosstalk -88.1dB",
+        "Battery (old)": "Endurance rating 85h"
       }
     }
   },
@@ -3855,6 +4091,83 @@
     }
   },
   {
+    "slug": "alcatel_3-9085.php",
+    "name": "alcatel 3",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/alcatel_3-9085.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/alcatel_3-pictures-9085.php",
+    "opinions_url": "https://www.gsmarena.com/alcatel_3-reviews-9085.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - 5052A | HSDPA 850 / 900 / 1900 / 2100 - 5052Y/D",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28 - 5052A | 1, 3, 7, 8, 20 - 5052Y/D",
+        "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, February. Released 2018, May | 2018, February. Released 2018, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147.1 x 68.8 x 8.5 mm (5.79 x 2.71 x 0.33 in)",
+        "Weight": "145 g (5.11 oz)",
+        "SIM": "· Nano-SIM · Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 78.1 cm 2 (~77.1% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~293 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo)",
+        "Chipset": "Mediatek MT6739 (28 nm)",
+        "CPU": "Quad-core 1.3 GHz Cortex-A53",
+        "GPU": "PowerVR GE8100"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "16GB 2GB RAM | eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 1/3.1\", 1.12µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (5052Y only)",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Spectrum Black, Spectrum Gold (LATAM), Spectrum Black, Spectrum Blue (APAC), Spectrum Black, Spectrum Blue, Spectrum Gold (EU/MEA)",
+        "Models": "5052D, 5052A, 5052Y",
+        "Price": "About 170 EUR"
+      }
+    }
+  },
+  {
     "slug": "alcatel_3088-9986.php",
     "name": "alcatel 3088",
     "description": "",
@@ -4150,6 +4463,84 @@
       "Misc": {
         "Colors": "Prime Black, Midnight Blue",
         "Models": "8088L, 8088Q, 8088X, 8088X_EEA"
+      }
+    }
+  },
+  {
+    "slug": "alcatel_3t_8-10108.php",
+    "name": "alcatel 3T 8",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/alcatel_3t_8-10108.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/alcatel_3t_8-pictures-10108.php",
+    "opinions_url": "https://www.gsmarena.com/alcatel_3t_8-reviews-10108.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "LTE",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "2, 4, 5, 12, 66, 71",
+        "Speed": "LTE",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2018, October 08. Released 2018, October 08 | 2018, October 08. Released 2018, October 08",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "209.5 x 125 x 8.3 mm (8.25 x 4.92 x 0.33 in)",
+        "Weight": "279 g (9.84 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "8.0 inches, 185.6 cm 2 (~70.9% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo)",
+        "Chipset": "Mediatek MT8765",
+        "CPU": "Quad-core 1.28 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1GB RAM, 32GB 2GB RAM, 32GB 3GB RAM | eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/2.4, (wide), 1/5.0\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP, f/2.8, (wide), 1/5.0\", 1.65µm",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4080 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Blue",
+        "Models": "9027Q, 9027W, 9032X, 9032T, 9032X_EEA",
+        "Price": "About 140 EUR"
       }
     }
   },
@@ -5554,7 +5945,7 @@
       "Misc": {
         "Colors": "Hyper Blue, Champagne Gold, Ocean Grey",
         "Models": "T803D",
-        "Price": "₹ 17,769"
+        "Price": "₹ 17,759"
       },
       "EU LABEL": {
         "Energy": "Class B",
@@ -6621,6 +7012,84 @@
       "Misc": {
         "Colors": "Gold, Mocha Gold",
         "SAR EU": "1.40 W/kg (head)"
+      }
+    }
+  },
+  {
+    "slug": "allview_p9_energy_lite-8373.php",
+    "name": "Allview P9 Energy Lite",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/allview_p9_energy_lite-8373.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/allview_p9_energy_lite-pictures-8373.php",
+    "opinions_url": "https://www.gsmarena.com/allview_p9_energy_lite-reviews-8373.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 7, 20, 38, 39, 40, 41",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, September. Released 2016, September | 2016, September. Released 2016, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "149 x 73.2 x 8.2 mm (5.87 x 2.88 x 0.32 in)",
+        "Weight": "174 g (6.14 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.3 inches, 77.4 cm 2 (~71.0% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~277 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow)",
+        "Chipset": "Mediatek MT6750 (28 nm)",
+        "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+        "GPU": "Mali-T860MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "32GB 3GB RAM | eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "5 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh, non-removable",
+        "Stand-by": "Up to 450 h",
+        "Talk time": "Up to 20 h"
+      },
+      "Misc": {
+        "Colors": "Gold, Mocha Gold",
+        "SAR EU": "0.72 W/kg (head)"
       }
     }
   },
@@ -10881,6 +11350,72 @@
     }
   },
   {
+    "slug": "amoi_a675-1654.php",
+    "name": "Amoi A675",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/amoi_a675-1654.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "opinions_url": "https://www.gsmarena.com/amoi_a675-reviews-1654.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, Q2 | 2006, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93.2 x 46.3 x 23.3 mm (3.67 x 1.82 x 0.92 in)",
+        "Weight": "101.4 g (3.56 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.4 cm 2 (~28.7% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "128MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0",
+        "Games": "Yes",
+        "Java": "Yes | MP3/ MP4 Player PC Sync TV-out Voice memo Organizer Stop Watch World Time"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 720 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    }
+  },
+  {
     "slug": "amoi_a865-1645.php",
     "name": "Amoi A865",
     "description": "",
@@ -11888,6 +12423,65 @@
       },
       "Misc": {
         "Colors": "Silver pink, Silver blue"
+      }
+    }
+  },
+  {
+    "slug": "amoi_f99b-639.php",
+    "name": "Amoi F99b",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/amoi_f99b-639.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/amoi_f99b-pictures-639.php",
+    "opinions_url": "https://www.gsmarena.com/amoi_f99b-reviews-639.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003 | 2003",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86 x 49 x 24 mm (3.39 x 1.93 x 0.94 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Resolution": "128 x 128 pixels, 1:1 ratio | Second external mono (32 x 63 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Polyphonic(40) ringtones",
+        "3.5mm jack": "No | Polyphonic ringtones Downloadable ringtones, screensavers, wallpapers"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No"
+      },
+      "Features": {
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP",
+        "Games": "5",
+        "Java": "No | Predictive text input Organizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery",
+        "Stand-by": "Up to 100 h",
+        "Talk time": "Up to 3 h"
       }
     }
   },
@@ -12913,6 +13507,74 @@
     }
   },
   {
+    "slug": "amoi_wma8701a-2031.php",
+    "name": "Amoi WMA8701A",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/amoi_wma8701a-2031.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "opinions_url": "https://www.gsmarena.com/amoi_wma8701a-reviews-2031.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / UMTS",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "UMTS 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2007 | 2007",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.4 x 48 x 13.8 mm (4.31 x 1.89 x 0.54 in)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm 2 (~28.5% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "200MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie Camera": {
+        "Single": "VGA videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, AMR, MP3, AAC, AAC+, WAV, MIDI ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0 | Audio/ player P2P Video Support PC Sync Organizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    }
+  },
+  {
     "slug": "amoi_wma8703-2029.php",
     "name": "Amoi WMA8703",
     "description": "",
@@ -13151,7 +13813,7 @@
         "Models": "A2643, A2484, A2641, A2644, A2645, iphone14,3",
         "SAR": "1.18 W/kg (head) 1.20 W/kg (body)",
         "SAR EU": "0.99 W/kg (head) 0.98 W/kg (body)",
-        "Price": "$ 439.36 / £ 329.48 / € 430.00"
+        "Price": "$ 435.58 / £ 298.50 / € 407.47"
       },
       "Our Tests": {
         "Performance": "AnTuTu: 801691 (v9) GeekBench: 4706 (v5.1) GFXBench: 60fps (ES 3.1 onscreen)",
@@ -14261,7 +14923,7 @@
         "Models": "A3296, A3084, A3295, A3297, iPhone17,2",
         "SAR": "1.01 W/kg (head) 1.15 W/kg (body)",
         "SAR EU": "1.22 W/kg (head) 1.45 W/kg (body)",
-        "Price": "$ 689.00 / £ 785.00 / € 829.00"
+        "Price": "$ 689.00 / £ 679.99 / € 829.00"
       },
       "Our Tests": {
         "Performance": "AnTuTu: 1838828 (v10), 1740422 (v11) GeekBench: 8606 (v6) 3DMark: 4731 (Wild Life Extreme)",
@@ -14645,7 +15307,7 @@
         "Models": "iPhone18,2, A3526, A3257, A3527, A3525",
         "SAR": "1.19 W/kg (head) 1.19 W/kg (body)",
         "SAR EU": "1.49 W/kg (head) 1.49 W/kg (body)",
-        "Price": "$ 929.99 / £ 999.00 / € 1,192.46 / ₹ 143,990"
+        "Price": "$ 929.99 / £ 999.00 / € 1,094.29 / ₹ 143,990"
       },
       "Our Tests": {
         "Performance": "AnTuTu: 2600583 (v10), 2331417 (v11) GeekBench: 10118 (v6) 3DMark: 6010 (Wild Life Extreme)",
@@ -14752,6 +15414,101 @@
       "EU LABEL": {
         "Energy": "Class A",
         "Battery": "45:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    }
+  },
+  {
+    "slug": "apple_iphone_17_air-13502.php",
+    "name": "Apple iPhone Air",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/apple_iphone_17_air-pictures-13502.php",
+    "price_url": "https://www.gsmarena.com/apple_iphone_17_air-price-13502.php",
+    "opinions_url": "https://www.gsmarena.com/apple_iphone_17_air-reviews-13502.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 | CDMA 800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 | CDMA2000 1xEV-DO",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3517 | 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3260 | 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3518",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517 | 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3260 | 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3518",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2025, September 09 | 2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in)",
+        "Weight": "165 g (5.82 oz)",
+        "Build": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+        "SIM": "eSIM + eSIM (8 or more, max 2 at a time) | IP68 dust tight and water resistant (immersible up to 6m for 30 min) Apple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.5 inches, 104.9 cm 2 (~89.9% screen-to-body ratio)",
+        "Resolution": "1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5 | Anti-reflective coating"
+      },
+      "Platform": {
+        "OS": "iOS 26, upgradable to iOS 26.6",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM | NVMe"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "Selfie Camera": {
+        "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer | Ultra Wideband (UWB) support (gen2 chip) Emergency SOS, Messages and Find My via satellite"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3149 mAh",
+        "Charging": "Wired, PD2.0, 50% in 30 min 20 wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Space Black, Cloud White, Light Gold, Sky Blue",
+        "Models": "iPhone18,4, A3517, A3260, A3518, A3516",
+        "SAR": "1.19 W/kg (head) 1.19 W/kg (body)",
+        "SAR EU": "1.49 W/kg (head) 1.49 W/kg (body)",
+        "Price": "$ 700.00 / £ 649.49 / € 704.59 / ₹ 97,900"
+      },
+      "Our Tests": {
+        "Display": "998 nits max brightness (measured)",
+        "Loudspeaker": "-29.8 LUFS (Average)",
+        "Battery": "Active use score 12:44h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "40:00h endurance, 1000 cycles",
         "Free fall": "Class B (180 falls)",
         "Repairability": "Class C"
       }
@@ -14901,6 +15658,79 @@
         "SAR": "1.08 W/kg (head)",
         "SAR EU": "0.26 W/kg (head) 0.83 W/kg (body)",
         "Price": "€ 304.89"
+      }
+    }
+  },
+  {
+    "slug": "apple_watch_series_10_aluminum-13319.php",
+    "name": "Apple Watch Series 10 Aluminum",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/apple_watch_series_10_aluminum-13319.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/apple_watch_series_10_aluminum-pictures-13319.php",
+    "opinions_url": "https://www.gsmarena.com/apple_watch_series_10_aluminum-reviews-13319.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK | HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK | 1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 09 | 2024, September 09",
+        "Status": "Available. Released 2024, September 20"
+      },
+      "Body": {
+        "Dimensions": "46 x 39 x 9.7 mm (1.81 x 1.54 x 0.38 in)",
+        "Weight": "29.3 g (42mm), 35.3 g (46mm) (1.02 oz)",
+        "Build": "Glass front, ceramic/sapphire crystal back, aluminum frame",
+        "SIM": "eSIM | IP6X certified 50m water resistant ECG certified (region dependent SW application; HW available on all models) Depth gauge to 6m"
+      },
+      "Display": {
+        "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+        "Size": "1.96 inches",
+        "Resolution": "496 x 416 pixels (~330 ppi density)",
+        "Protection": "Ion-X strengthened glass | Wide-angle OLED"
+      },
+      "Platform": {
+        "OS": "watchOS 11, up to watchOS 26.6, planned upgrade to watchOS 27",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water) | Temperature sensing (0.01˚ accuracy) Ultra Wideband (UWB) support (gen2 chip) Media playback"
+      },
+      "Battery": {
+        "Type": "Li-Ion 327 mAh",
+        "Charging": "Wireless, 0-80% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Jet Black, Rose Gold, Silver",
+        "Models": "A3001, A3002, A3003, A3206, A2997, A2998, A2999, A3000",
+        "SAR": "1.08 W/kg (head)",
+        "SAR EU": "0.26 W/kg (head) 0.83 W/kg (body)",
+        "Price": "About 300 EUR"
       }
     }
   },
@@ -15637,6 +16467,81 @@
     }
   },
   {
+    "slug": "archos_40_titanium-6064.php",
+    "name": "Archos 40 Titanium",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/archos_40_titanium-6064.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/archos_40_titanium-pictures-6064.php",
+    "opinions_url": "https://www.gsmarena.com/archos_40_titanium-reviews-6064.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2013. Released 2013 | 2013. Released 2013",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "125 x 65 x 8.5 mm (4.92 x 2.56 x 0.33 in)",
+        "Weight": "124 g (4.37 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 45.5 cm 2 (~56.1% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "Chipset": "Mediatek MT6572 (28 nm)",
+        "CPU": "Dual-core 1.3 GHz Cortex-A7",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p"
+      },
+      "Selfie Camera": {
+        "Single": "VGA"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1500 mAh, removable",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 12 h (2G) / Up to 9 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.44 W/kg (head) 0.73 W/kg (body)"
+      }
+    }
+  },
+  {
     "slug": "archos_40b_titanium-6126.php",
     "name": "Archos 40b Titanium",
     "description": "",
@@ -15858,6 +16763,81 @@
     }
   },
   {
+    "slug": "archos_45_platinum-6060.php",
+    "name": "Archos 45 Platinum",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/archos_45_platinum-6060.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/archos_45_platinum-pictures-6060.php",
+    "opinions_url": "https://www.gsmarena.com/archos_45_platinum-reviews-6060.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2013. Released 2013 | 2013. Released 2013",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "142.5 x 71.8 x 9.2 mm (5.61 x 2.83 x 0.36 in)",
+        "Weight": "150 g (5.29 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.5 inches, 55.8 cm 2 (~54.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "CPU": "Quad-core 1.2 GHz Cortex-A5",
+        "GPU": "Adreno 203"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "720p"
+      },
+      "Selfie Camera": {
+        "Single": "VGA"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1600 mAh, removable",
+        "Stand-by": "Up to 135 h",
+        "Talk time": "Up to 8 h 20 min (2G) / Up to 10 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.39 W/kg (head) 1.28 W/kg (body)"
+      }
+    }
+  },
+  {
     "slug": "archos_45_titanium-6063.php",
     "name": "Archos 45 Titanium",
     "description": "",
@@ -15927,6 +16907,78 @@
       "Misc": {
         "Colors": "Black",
         "SAR EU": "1.16 W/kg (head) 0.77 W/kg (body)"
+      }
+    }
+  },
+  {
+    "slug": "archos_45c_platinum-6610.php",
+    "name": "Archos 45c Platinum",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/archos_45c_platinum-6610.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/archos_45c_platinum-pictures-6610.php",
+    "opinions_url": "https://www.gsmarena.com/archos_45c_platinum-reviews-6610.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, August. Released 2014, September | 2014, August. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "133 x 67.5 x 8.9 mm (5.24 x 2.66 x 0.35 in)",
+        "Weight": "138 g (4.87 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.5 inches, 55.8 cm 2 (~62.2% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~218 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "Chipset": "Mediatek MT6582 (28 nm)",
+        "CPU": "Quad-core 1.3 GHz Cortex-A7",
+        "GPU": "Mali-400MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.0, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1700 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black; Metallic Blue and Spicy Pink (included)"
       }
     }
   },
@@ -16539,6 +17591,80 @@
     }
   },
   {
+    "slug": "archos_50b_cobalt-8546.php",
+    "name": "Archos 50b Cobalt",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/archos_50b_cobalt-8546.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/archos_50b_cobalt-pictures-8546.php",
+    "opinions_url": "https://www.gsmarena.com/archos_50b_cobalt-reviews-8546.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE 800 / 1800 / 2100 / 2600",
+        "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, January. Released 2017, January | 2017, January. Released 2017, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "144 x 72 x 0 mm (5.67 x 2.83 x 0.0 in)",
+        "Weight": "160 g (5.64 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm 2 (~66.5% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8909 Snapdragon 210 (28 nm)",
+        "CPU": "Quad-core 1.1 GHz",
+        "GPU": "Adreno 304"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "16GB 1GB RAM, 32GB 2GB RAM | eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2100 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR EU": "0.35 W/kg (head) 1.62 W/kg (body)"
+      }
+    }
+  },
+  {
     "slug": "archos_50b_helium_4g-7050.php",
     "name": "Archos 50b Helium 4G",
     "description": "",
@@ -16832,6 +17958,81 @@
       "Misc": {
         "Colors": "Dark blue, Black",
         "Price": "About 140 EUR"
+      }
+    }
+  },
+  {
+    "slug": "archos_53_platinum-6059.php",
+    "name": "Archos 53 Platinum",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/archos_53_platinum-6059.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/archos_53_platinum-pictures-6059.php",
+    "opinions_url": "https://www.gsmarena.com/archos_53_platinum-reviews-6059.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2013. Released 2013 | 2013. Released 2013",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.6 x 78 x 9.3 mm (6.05 x 3.07 x 0.37 in)",
+        "Weight": "189.9 g (6.67 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.3 inches, 77.4 cm 2 (~64.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~208 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+        "CPU": "Quad-core 1.2 GHz Cortex-A5",
+        "GPU": "Adreno 203"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "720p"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2800 mAh, removable",
+        "Stand-by": "Up to 264 h",
+        "Talk time": "Up to 21 h (2G) / Up to 15 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.33 W/kg (head) 0.75 W/kg (body)"
       }
     }
   },
@@ -18441,6 +19642,88 @@
     }
   },
   {
+    "slug": "asus_rog_phone_3_strix-10328.php",
+    "name": "Asus ROG Phone 3 Strix",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/asus_rog_phone_3_strix-10328.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/asus_rog_phone_3_strix-pictures-10328.php",
+    "opinions_url": "https://www.gsmarena.com/asus_rog_phone_3_strix-reviews-10328.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 | CDMA 800 & TD-SCDMA",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41",
+        "5G bands": "41, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat18 1200/150 Mbps, 5G 4.0 Gbps DL"
+      },
+      "Launch": {
+        "Announced": "2020, July 22. Released 2020, July 23 | 2020, July 22. Released 2020, July 23",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "171 x 78 x 9.9 mm (6.73 x 3.07 x 0.39 in)",
+        "Weight": "240 g (8.47 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM | RGB light panel (on the back) Pressure sensitive zones (Gaming triggers)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, HDR10+, 650 nits (typ)",
+        "Size": "6.59 inches, 106.6 cm 2 (~79.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 10, ROG UI",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 & 3x2.42 GHz Cortex-A77 & 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 128GB 12GB RAM, 256GB 8GB RAM | UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF 13 MP, f/2.4, 11mm, 125˚ (ultrawide) 5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS"
+      },
+      "Selfie Camera": {
+        "Single": "24 MP, f/2.0, 27mm (wide), 0.9µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with DTS:X stereo speakers (2 dedicated amplifiers)",
+        "3.5mm jack": "No | 24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 (side), USB Type-C 2.0 (bottom), OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "30W wired, PD3.0, QC4 10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black Glare",
+        "Models": "ASUS_I003DD",
+        "Price": "About 1400 EUR"
+      }
+    }
+  },
+  {
     "slug": "asus_rog_phone_5-10715.php",
     "name": "Asus ROG Phone 5",
     "description": "",
@@ -19884,6 +21167,182 @@
         "Colors": "Phantom Black",
         "Models": "AI2401",
         "Price": "About 860 EUR"
+      }
+    }
+  },
+  {
+    "slug": "asus_rog_phone_9_pro-13469.php",
+    "name": "Asus ROG Phone 9 Pro",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/asus_rog_phone_9_pro-13469.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/asus_rog_phone_9_pro-pictures-13469.php",
+    "opinions_url": "https://www.gsmarena.com/asus_rog_phone_9_pro-reviews-13469.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - Global | HSDPA 800 / 900 / 1700 / 1800 / 1900 / 2100 - China",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International | 1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 29, 30, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66, 71 - USA | 1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48 - China",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International | 1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA/Sub6 - USA | 1, 3, 5, 8, 28, 41, 77, 78, 79 SA/NSA/Sub6 - China",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2024, November 19 | 2024, November 19",
+        "Status": "Available. Released 2024, November 20"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "227 g (8.01 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "· Nano-SIM + eSIM · Nano-SIM + Nano-SIM | IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Mini-LED (648 dots) programmable matrix (on the back) Pressure sensitive zones (Gaming triggers)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 185Hz, 670Hz PWM, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm 2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major OS updates",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM, 1TB 24GB RAM | UFS 4.0 NTFS support for external storage"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS 32 MP, f/2.4, (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom 13 MP, f/2.2, 13mm, 120˚ (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie Camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes | 32-bit/384kHz Hi-Res & Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 46 min 15W wireless (Qi) 10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black",
+        "Models": "AI2501-16G512G-BK, AI2501-24G1T-BK",
+        "Price": "About 800 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 3042971 (v10) GeekBench: 10179 (v6) 3DMark: 6718 (Wild Life Extreme)",
+        "Display": "1958 nits max brightness (measured)",
+        "Loudspeaker": "-26.7 LUFS (Good)",
+        "Battery": "Active use score 16:41h"
+      }
+    }
+  },
+  {
+    "slug": "asus_rog_phone_ii_zs660kl-9770.php",
+    "name": "Asus ROG Phone II ZS660KL",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/asus_rog_phone_ii_zs660kl-9770.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/asus_rog_phone_ii_zs660kl-pictures-9770.php",
+    "opinions_url": "https://www.gsmarena.com/asus_rog_phone_ii_zs660kl-reviews-9770.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 28, 29, 32, 34, 38, 39, 40, 41, 46",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat18 (Cat20 Ultimate edition) 1200/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, July 22. Released 2019, September | 2019, July 22. Released 2019, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "171 x 77.6 x 9.5 mm (6.73 x 3.06 x 0.37 in)",
+        "Weight": "240 g (8.47 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM | RGB light panel (on the back)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10",
+        "Size": "6.59 inches, 106.6 cm 2 (~80.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~391 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), ROG UI",
+        "Chipset": "Qualcomm SM8150 Snapdragon 855+ (7 nm)",
+        "CPU": "Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)",
+        "GPU": "Adreno 640 (700 MHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM | UFS 3.0"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF 13 MP, f/2.4, 11mm (ultrawide)",
+        "Features": "Laser AF, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS (except @240/480fps)"
+      },
+      "Selfie Camera": {
+        "Single": "24MP, f/2.2, 0.9µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with DTS:X stereo speakers (2 dedicated amplifiers)",
+        "3.5mm jack": "Yes | 24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/ad, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 3.1, accessory connector, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh, non-removable",
+        "Charging": "30W wired 10W reverse wired, QC4"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Glossy Black",
+        "Models": "ASUS_I001D, I001DA, I001DE, I001DC, I001DB, I001D, I001DD",
+        "Price": "About 1070 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 398935 (v7), 483239 (v8) GeekBench: 10923 (v4.4) GFXBench: 40fps (ES 3.1 onscreen)",
+        "Display": "626 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-19.5 LUFS (Excellent)",
+        "Battery (old)": "Endurance rating 114h"
       }
     }
   },
@@ -21919,6 +23378,74 @@
     }
   },
   {
+    "slug": "benq_a520-1019.php",
+    "name": "BenQ A520",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/benq_a520-1019.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "opinions_url": "https://www.gsmarena.com/benq_a520-reviews-1019.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q1 | 2005, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "82.5 x 44.8 x 22.6 mm (3.25 x 1.76 x 0.89 in)",
+        "Weight": "96 g (3.39 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 65K colors",
+        "Size": "1.5 inches, 27 x 27 mm, 7.3 cm 2 (~19.6% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density) | Second external OLED, 65K colors display (96 x 39 pixels) Wallpapers Downloadable pictures"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 1.0 | Webcamera function iTap Photo editor Organizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery",
+        "Stand-by": "Up to 120 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black, White"
+      }
+    }
+  },
+  {
     "slug": "benq_b502-7048.php",
     "name": "BenQ B502",
     "description": "",
@@ -22635,6 +24162,68 @@
       },
       "Misc": {
         "Colors": "Glam Pink, Chic Gray"
+      }
+    }
+  },
+  {
+    "slug": "benq_m100-754.php",
+    "name": "BenQ M100",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/benq_m100-754.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/benq_m100-pictures-754.php",
+    "opinions_url": "https://www.gsmarena.com/benq_m100-reviews-754.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1 | 2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 44 x 18 mm (4.02 x 1.73 x 0.71 in)",
+        "Weight": "86 g (3.03 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.5 inches, 27 x 27 mm, 7.3 cm 2 (~16.2% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density) | Wallpapers Downloadable pictures"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "30 received, dialed and missed calls"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No"
+      },
+      "Features": {
+        "Messaging": "SMS",
+        "Games": "3 - Box World, Mini Mouse, Cherry Boy",
+        "Java": "No | iTap Organizer Exchangeable covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 760 mAh battery",
+        "Stand-by": "Up to 120 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "White, Dark blue, Claret, Gray"
       }
     }
   },
@@ -24935,6 +26524,75 @@
     }
   },
   {
+    "slug": "benq_siemens_ef51-1436.php",
+    "name": "BenQ-Siemens EF51",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/benq_siemens_ef51-1436.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/benq_siemens_ef51-pictures-1436.php",
+    "opinions_url": "https://www.gsmarena.com/benq_siemens_ef51-reviews-1436.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900 | GSM 850 / 1800 / 1900 - US version",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, February | 2006, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "89 x 49 x 18 mm (3.50 x 1.93 x 0.71 in)",
+        "Weight": "95 g (3.35 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 40 x 40 mm, 15.6 cm 2 (~35.7% screen-to-body ratio)",
+        "Resolution": "120 x 128 pixels (~80 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "miniSD",
+        "Phonebook": "Yes, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No | 3D surround sound"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0 | WMA/MP3/AAC/AAC+ player Predictive text input Voice memo Stopwatch Organizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 870 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Flashy White, Black"
+      }
+    }
+  },
+  {
     "slug": "benq_siemens_ef61-1640.php",
     "name": "BenQ-Siemens EF61",
     "description": "",
@@ -25415,6 +27073,71 @@
         "Type": "Removable Li-Ion 1370 mAh battery",
         "Stand-by": "Up to 150 h",
         "Talk time": "Up to 4 h"
+      }
+    }
+  },
+  {
+    "slug": "benq_siemens_s68-1410.php",
+    "name": "BenQ-Siemens S68",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/benq_siemens_s68-1410.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/benq_siemens_s68-pictures-1410.php",
+    "opinions_url": "https://www.gsmarena.com/benq_siemens_s68-reviews-1410.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, January | 2006, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107.5 x 44 x 13.2 mm, 58 cc (4.23 x 1.73 x 0.52 in)",
+        "Weight": "78.5 g (2.75 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.8 inches, 28 x 37 mm, 10.0 cm 2 (~21.2% screen-to-body ratio)",
+        "Resolution": "132 x 176 pixels, 4:3 ratio (~122 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "26MB"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0 | Media player Predictive text input Stopwatch Organizer Voice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 660 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Brushed Aluminum"
       }
     }
   },
@@ -27471,6 +29194,126 @@
     }
   },
   {
+    "slug": "bird_s198-1365.php",
+    "name": "Bird S198",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/bird_s198-1365.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/bird_s198-pictures-1365.php",
+    "opinions_url": "https://www.gsmarena.com/bird_s198-reviews-1365.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800 | GSM 850 / 1900 - US version",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q3 | 2005, Q3",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "104.3 x 42.6 x 15 mm (4.11 x 1.68 x 0.59 in)",
+        "Weight": "73 g (2.57 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, Mono",
+        "Resolution": "112 x 64 pixels, 16:9 ratio"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No"
+      },
+      "Features": {
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No | Organizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 72 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "4 - Black, White, Green, Red"
+      }
+    }
+  },
+  {
+    "slug": "bird_s199-1231.php",
+    "name": "Bird S199",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/bird_s199-1231.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/bird_s199-pictures-1231.php",
+    "opinions_url": "https://www.gsmarena.com/bird_s199-reviews-1231.php",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM",
+        "2G bands": "GSM 900 / 1800",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q3 | 2005, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104.3 x 42.6 x 15 mm (4.11 x 1.68 x 0.59 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, Mono",
+        "Resolution": "112 x 64 pixels, 16:9 ratio | 5-way navigation key"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No"
+      },
+      "Features": {
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No | Calculator"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 140 h",
+        "Talk time": "Up to 2 h"
+      },
+      "Misc": {
+        "Colors": "Silver, Black"
+      }
+    }
+  },
+  {
     "slug": "bird_s296-1937.php",
     "name": "Bird S296",
     "description": "",
@@ -29003,6 +30846,79 @@
         "Colors": "Black, Silver, Gold",
         "Models": "BBC100-1",
         "Price": "About 200 EUR"
+      }
+    }
+  },
+  {
+    "slug": "blackberry_bold_9650-3284.php",
+    "name": "BlackBerry Bold 9650",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/blackberry_bold_9650-3284.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/blackberry_bold_9650-pictures-3284.php",
+    "opinions_url": "https://www.gsmarena.com/blackberry_bold_9650-reviews-3284.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100 | CDMA/EVDO Rev A 800/1900",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, April. Released 2010, July | 2010, April. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 62 x 14 mm (4.41 x 2.44 x 0.55 in)",
+        "Weight": "136 g (4.80 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM | Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.44 inches, 18.4 cm 2 (~26.6% screen-to-body ratio)",
+        "Resolution": "480 x 360 pixels, 4:3 ratio (~246 ppi density)"
+      },
+      "Platform": {
+        "OS": "BlackBerry OS"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "512MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Browser": "HTML | BlackBerry maps Document editor (Word, Excel, PowerPoint, PDF) MP3/WMA/eAAC+ player MP4/H.263/WMV player Organizer Voice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1400 mAh battery",
+        "Stand-by": "Up to 312 h",
+        "Talk time": "Up to 5 h",
+        "Music play": "Up to 18 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.35 W/kg (head) 0.50 W/kg (body)",
+        "SAR EU": "1.68 W/kg (head) 0.27 W/kg (body)",
+        "Price": "About 60 EUR"
       }
     }
   },
@@ -31298,6 +33214,82 @@
     }
   },
   {
+    "slug": "blackberry_porsche_design_p_9981-4288.php",
+    "name": "BlackBerry Porsche Design P'9981",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/blackberry_porsche_design_p_9981-4288.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/blackberry_porsche_design_p_9981-pictures-4288.php",
+    "opinions_url": "https://www.gsmarena.com/blackberry_porsche_design_p_9981-reviews-4288.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, December | 2011, October. Released 2011, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 67 x 11.3 mm (4.53 x 2.64 x 0.44 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM | Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.8 inches, 24.3 cm 2 (~31.5% screen-to-body ratio)",
+        "Resolution": "640 x 480 pixels, 4:3 ratio (~286 ppi density)"
+      },
+      "Platform": {
+        "OS": "BlackBerry OS 7.0",
+        "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "CPU": "1.2 GHz",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass | MP3/eAAC+/Flac/WAV player MP4/H.264 player Organizer Document viewer Voice memo/dial Predictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1230 mAh battery",
+        "Stand-by": "Up to 348 h",
+        "Talk time": "Up to 5 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Gray, Black",
+        "SAR": "0.70 W/kg (head) 1.35 W/kg (body)",
+        "SAR EU": "0.60 W/kg (head) 1.39 W/kg (body)",
+        "Price": "About 800 EUR"
+      }
+    }
+  },
+  {
     "slug": "blackberry_porsche_design_p_9982-5856.php",
     "name": "BlackBerry Porsche Design P'9982",
     "description": "",
@@ -31451,6 +33443,94 @@
       "Misc": {
         "Colors": "Black",
         "Price": "About 430 EUR"
+      }
+    }
+  },
+  {
+    "slug": "blackberry_priv-7587.php",
+    "name": "BlackBerry Priv",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/blackberry_priv-7587.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/blackberry_priv-pictures-7587.php",
+    "opinions_url": "https://www.gsmarena.com/blackberry_priv-reviews-7587.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA (STV100-1), Europe (STV100-4)",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 17, 20, 29, 30 - USA (STV100-1) | 1, 2, 3, 4, 7, 8, 13, 17, 20, 28 - Europe (STV100-4)",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, October. Released 2015, November | 2015, October. Released 2015, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147 x 77.2 x 9.4 mm (5.79 x 3.04 x 0.37 in)",
+        "Weight": "192 g (6.77 oz)",
+        "Keyboard": "QWERTY",
+        "Build": "Glass front (Gorilla Glass 4), plastic back, plastic frame",
+        "SIM": "Nano-SIM | Capacitive touch 4-row BlackBerry keyboard"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.4 inches, 81.6 cm 2 (~71.9% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~540 ppi density)",
+        "Protection": "Corning Gorilla Glass 4 | Curved edge screen"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8992 Snapdragon 808 (20 nm)",
+        "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
+        "GPU": "Adreno 418"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM | eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "18 MP, f/2.2, 27mm (wide), 1/2.4\", PDAF, OIS",
+        "Features": "Schneider-Kreuznach optics, dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60fps"
+      },
+      "Selfie Camera": {
+        "Single": "2 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (SlimPort 4K)"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, altimeter, gyro, ToF proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3410 mAh, non-removable",
+        "Charging": "18W wired, QC2 Wireless (Qi) (market dependent)",
+        "Stand-by": "Up to 420 h (3G)",
+        "Talk time": "Up to 24 h (3G)",
+        "Music play": "Up to 73 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "STV100-4, STV100-3, STV100-1, V100, STV100-2",
+        "Price": "About 270 EUR"
+      },
+      "Our Tests": {
+        "Camera": "Photo / Video",
+        "Battery (old)": "Endurance rating 62h"
       }
     }
   },
@@ -32083,6 +34163,86 @@
         "SAR": "0.90 W/kg (head) 0.66 W/kg (body)",
         "SAR EU": "0.76 W/kg (head) 0.43 W/kg (body)",
         "Price": "About 130 EUR"
+      }
+    }
+  },
+  {
+    "slug": "blackberry_torch_9860-3926.php",
+    "name": "BlackBerry Torch 9860",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/blackberry_torch_9860-3926.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/blackberry_torch_9860-pictures-3926.php",
+    "opinions_url": "https://www.gsmarena.com/blackberry_torch_9860-reviews-3926.php",
+    "price_url": "https://www.gsmarena.com/glossary.php3?term=price",
+    "specifications": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1700 / 2100 | HSDPA 850 / 1900 / 2100 / 800",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, August. Released 2011, September | 2011, August. Released 2011, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "120 x 62 x 11.5 mm (4.72 x 2.44 x 0.45 in)",
+        "Weight": "135 g (4.76 oz)",
+        "SIM": "Mini-SIM | Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 39.0 cm 2 (~52.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)"
+      },
+      "Platform": {
+        "OS": "BlackBerry OS 7",
+        "CPU": "1.2 GHz QC 8655"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML | Social feeds BlackBerry maps Document viewer MP3/WMA/WAV/eAAC+/FlAC player DivX/XviD/MP4/WMV/H.264 player Organizer Voice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1230 mAh battery",
+        "Stand-by": "Up to 330 h (2G) / Up to 320 h (3G)",
+        "Talk time": "Up to 4 h 40 min (2G) / Up to 6 h 50 min (3G)",
+        "Music play": "Up to 44 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.12 W/kg (head) 0.86 W/kg (body)",
+        "SAR EU": "0.82 W/kg (head) 0.45 W/kg (body)",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Display": "Contrast ratio: 1413:1 (nominal)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 75dB",
+        "Audio quality": "Noise -86.8dB / Crosstalk -86.5dB"
       }
     }
   },
@@ -32909,6 +35069,88 @@
         "Energy": "Class B",
         "Battery": "48:31h endurance, 500 cycles",
         "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    }
+  },
+  {
+    "slug": "blackview_link_1_kids-14841.php",
+    "name": "Blackview Link 1 Kids",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/blackview_link_1_kids-14841.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/blackview_link_1_kids-pictures-14841.php",
+    "opinions_url": "https://www.gsmarena.com/blackview_link_1_kids-reviews-14841.php",
+    "specifications": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2026, January | 2026, January",
+        "Status": "Available. Released 2026, January"
+      },
+      "Body": {
+        "Dimensions": "231.7 x 154.5 x 15 mm (9.12 x 6.08 x 0.59 in)",
+        "Weight": "476 g (1.05 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 360 nits",
+        "Size": "8.68 inches, 213.9 cm 2 (~59.8% screen-to-body ratio)",
+        "Resolution": "800 x 1340 pixels, 5:3 ratio (~180 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, DokeOS_P 5.0",
+        "Chipset": "Rockchip RK3562",
+        "CPU": "Quad-core (4x2.0 GHz Cortex-A53)",
+        "GPU": "ARM G52 2EE"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM | eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.2, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Selfie Camera": {
+        "Single": "5 MP, f/2.2, (wide)",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Dreamy Purple, Ocean Blue"
+      },
+      "EU LABEL": {
+        "Energy": "Class D",
+        "Battery": "85:46h endurance, 800 cycles",
+        "Free fall": "Class C (104 falls)",
         "Repairability": "Class B"
       }
     }

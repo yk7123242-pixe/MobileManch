@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-20T17:14:05.896768+00:00",
+    "last_updated": "2026-08-20T19:45:23.444826+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "Samsung is now charging up to 15% more for the chips it makes, insiders say",
+            "link": "https://www.gsmarena.com/samsung_is_now_charging_up_to_15_more_for_the_chips_it_makes_insiders_say-news-74259.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-596ff6d8e1.jpg"
+        },
+        {
+            "title": "The big three US carriers are offering some Pixel 11 models for free, here is what you need to know",
+            "link": "https://www.gsmarena.com/the_big_three_us_carriers_are_offering_some_pixel_11_models_for_free_here_is_what_you_need_to_know-news-74260.php",
+            "image": "mobilemanch-site-1/assets/news/news-02-96d44745c0.jpg"
+        },
+        {
             "title": "Honor 700 series details leak alongside information about the Magic9, Win2, and Power3",
             "link": "https://www.gsmarena.com/honor_700_series_details_leak_along_with_the_magic9_win2_and_power3-news-74264.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-c20dedf099.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-03-c20dedf099.jpg"
         },
         {
             "title": "iQOO Z11 hands-on",
             "link": "https://www.gsmarena.com/iqoo_z11_hands_on-news-74269.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-c7455b3a8e.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-c7455b3a8e.jpg"
         },
         {
             "title": "CMF Buds Neo goes official with ANC and up to 52 hour total battery life",
             "link": "https://www.gsmarena.com/cmf_buds_neo_goes_official_with_anc_and_up_to_52_hour_total_battery_life-news-74263.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-9af978e4db.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-9af978e4db.jpg"
         },
         {
             "title": "Huawei Pura X View unveiled with a 16:9.5 wide display, 7,000mAh battery",
             "link": "https://www.gsmarena.com/huaweis_nonfolding_widescreen_phone_design_and_key_specs_leak-news-74261.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-ecf697241e.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-ecf697241e.jpg"
         },
         {
             "title": "The Google Pixel 11 series is now on sale",
             "link": "https://www.gsmarena.com/the_google_pixel_11_series_is_now_on_sale-news-74266.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-6769145e4b.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-6769145e4b.jpg"
         },
         {
             "title": "Sony is launching a new Xperia phone next week",
             "link": "https://www.gsmarena.com/sony_is_launching_a_new_xperia_phone_next_week-news-74262.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-2177a06d81.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-2177a06d81.jpg"
         },
         {
             "title": "Sony Xperia 10 VIII runs Geekbench",
             "link": "https://www.gsmarena.com/sony_xperia_10_viii_runs_geekbench-news-74258.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-03c85f5939.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-03c85f5939.jpg"
         },
         {
             "title": "Samsung showcases a 300Hz OLED display for gaming laptops among other cutting-edge display tech",
             "link": "https://www.gsmarena.com/samsung_showcases_a_300hz_oled_display_for_gaming_laptops_among_other_cuttingedge_display_tech-news-74257.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-2e2293a9f4.jpg"
-        },
-        {
-            "title": "Apple Watch Series 12 to mark the return of a long-lost material",
-            "link": "https://www.gsmarena.com/apple_watch_series_12_to_mark_the_return_of_a_longlost_material-news-74254.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-e257fda0bc.jpg"
-        },
-        {
-            "title": "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along",
-            "link": "https://www.gsmarena.com/iqoo_z11_debuts_in_india_with_different_specs_and_design_buds_tws_tag_along-news-74256.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-56c083ee9a.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-2e2293a9f4.jpg"
         }
     ]
 }
