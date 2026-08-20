@@ -9,6 +9,7 @@
 .device-kicker{color:var(--gold);font-size:12px;font-weight:850;letter-spacing:1.5px;text-transform:uppercase}
 .device-title{font-size:clamp(30px,5vw,52px);line-height:1.08;margin:8px 0 14px}
 .device-description{color:var(--muted);font-size:16px;max-width:720px;margin-bottom:20px}
+.device-data-note{display:inline-block;color:var(--gold);font-size:13px;font-weight:800;border-left:3px solid var(--gold);padding-left:10px}
 .device-actions{display:flex;gap:10px;flex-wrap:wrap}
 .device-action{display:inline-block;padding:10px 14px;border:1px solid var(--border);border-radius:8px;color:var(--text);font-size:13px;font-weight:800;background:var(--card)}
 .device-action.primary{background:var(--navy);border-color:var(--navy);color:#fff}

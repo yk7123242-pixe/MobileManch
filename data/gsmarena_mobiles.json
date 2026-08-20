@@ -68,7 +68,14 @@
     "description": "A premium flagship with a 200MP camera, Snapdragon performance and a bright high-refresh-rate display.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-ultra.jpg",
     "specifications": {
-      "Overview": {"Display": "6.9-inch Dynamic AMOLED 2X, 120Hz", "Chipset": "Snapdragon 8 Gen 5", "Main camera": "200 MP", "Battery": "5000 mAh", "Network": "GSM / HSPA / LTE / 5G", "Status": "Available"}
+      "Overview": {
+        "Display": "6.9-inch Dynamic AMOLED 2X, 120Hz",
+        "Chipset": "Snapdragon 8 Gen 5",
+        "Main camera": "200 MP",
+        "Battery": "5000 mAh",
+        "Network": "GSM / HSPA / LTE / 5G",
+        "Status": "Available"
+      }
     }
   },
   {
@@ -77,7 +84,14 @@
     "description": "A speed-focused flagship built around fast performance, smooth display technology and 120W charging.",
     "image_url": "https://m.media-amazon.com/images/I/31gmZa0jImL._SL500_.jpg",
     "specifications": {
-      "Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 8 flagship platform", "Main camera": "50 MP triple camera", "Battery": "6000 mAh", "Charging": "120W wired", "Network": "GSM / HSPA / LTE / 5G"}
+      "Overview": {
+        "Display": "6.78-inch AMOLED, 120Hz",
+        "Chipset": "Snapdragon 8 flagship platform",
+        "Main camera": "50 MP triple camera",
+        "Battery": "6000 mAh",
+        "Charging": "120W wired",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
     }
   },
   {
@@ -86,7 +100,14 @@
     "description": "A value-focused phone with an AMOLED display, high-resolution camera and dependable all-day battery.",
     "image_url": "https://m.media-amazon.com/images/I/41DpNYFTQ0L._SL500_.jpg",
     "specifications": {
-      "Overview": {"Display": "6.7-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity series", "Main camera": "108 MP", "Battery": "5000 mAh", "Network": "GSM / HSPA / LTE / 5G", "Status": "Available"}
+      "Overview": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Chipset": "MediaTek Dimensity series",
+        "Main camera": "108 MP",
+        "Battery": "5000 mAh",
+        "Network": "GSM / HSPA / LTE / 5G",
+        "Status": "Available"
+      }
     }
   },
   {
@@ -95,7 +116,14 @@
     "description": "Apple's mainstream flagship with the A19 chip, improved camera processing and a polished iOS experience.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17.jpg",
     "specifications": {
-      "Overview": {"Display": "6.3-inch Super Retina OLED", "Chipset": "Apple A19", "Main camera": "48 MP dual camera", "Battery": "All-day battery", "OS": "iOS", "Network": "GSM / HSPA / LTE / 5G"}
+      "Overview": {
+        "Display": "6.3-inch Super Retina OLED",
+        "Chipset": "Apple A19",
+        "Main camera": "48 MP dual camera",
+        "Battery": "All-day battery",
+        "OS": "iOS",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
     }
   },
   {
@@ -104,7 +132,14 @@
     "description": "A performance and gaming phone with a high-refresh-rate panel, flagship processor and advanced cooling.",
     "image_url": "https://m.media-amazon.com/images/I/31GjR50dRPL._SL500_.jpg",
     "specifications": {
-      "Overview": {"Display": "6.78-inch AMOLED, 144Hz", "Chipset": "Snapdragon 8 flagship platform", "Main camera": "50 MP triple camera", "Battery": "5500 mAh", "Charging": "Fast wired charging", "Network": "GSM / HSPA / LTE / 5G"}
+      "Overview": {
+        "Display": "6.78-inch AMOLED, 144Hz",
+        "Chipset": "Snapdragon 8 flagship platform",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5500 mAh",
+        "Charging": "Fast wired charging",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
     }
   },
   {
@@ -113,7 +148,14 @@
     "description": "A slim camera-focused phone with portrait photography features, a bright display and 5G connectivity.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v40.jpg",
     "specifications": {
-      "Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 7 Gen series", "Main camera": "50 MP dual camera", "Battery": "5500 mAh", "Charging": "80W wired", "Network": "GSM / HSPA / LTE / 5G"}
+      "Overview": {
+        "Display": "6.78-inch AMOLED, 120Hz",
+        "Chipset": "Snapdragon 7 Gen series",
+        "Main camera": "50 MP dual camera",
+        "Battery": "5500 mAh",
+        "Charging": "80W wired",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
     }
   },
   {
@@ -122,7 +164,14 @@
     "description": "A balanced mid-range phone with a bright AMOLED display, capable cameras and long-term software support.",
     "image_url": "https://m.media-amazon.com/images/I/31GjR50dRPL._SL500_.jpg",
     "specifications": {
-      "Overview": {"Display": "6.7-inch Super AMOLED, 120Hz", "Chipset": "Exynos 1580", "Main camera": "50 MP triple camera", "Battery": "5000 mAh", "Charging": "45W wired", "Network": "GSM / HSPA / LTE / 5G"}
+      "Overview": {
+        "Display": "6.7-inch Super AMOLED, 120Hz",
+        "Chipset": "Exynos 1580",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5000 mAh",
+        "Charging": "45W wired",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
     }
   },
   {
@@ -130,34 +179,141 @@
     "name": "Xiaomi 17T 5G",
     "description": "A high-value 5G phone with generous storage, a smooth display and fast everyday performance.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17t-5g.jpg",
-    "specifications": {"Overview": {"Display": "6.67-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity series", "Main camera": "50 MP triple camera", "Battery": "5500 mAh", "Network": "GSM / HSPA / LTE / 5G"}}
+    "specifications": {
+      "Overview": {
+        "Display": "6.67-inch AMOLED, 120Hz",
+        "Chipset": "MediaTek Dimensity series",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5500 mAh",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
+    }
   },
   {
     "slug": "honor_600_5g-14605.php",
     "name": "Honor 600 5G",
     "description": "A modern 5G phone with a high-resolution camera, large battery and premium styling.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-5g.jpg",
-    "specifications": {"Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 7 Gen series", "Main camera": "200 MP", "Battery": "6000 mAh", "Network": "GSM / HSPA / LTE / 5G"}}
+    "specifications": {
+      "Overview": {
+        "Display": "6.78-inch AMOLED, 120Hz",
+        "Chipset": "Snapdragon 7 Gen series",
+        "Main camera": "200 MP",
+        "Battery": "6000 mAh",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
+    }
   },
   {
     "slug": "oppo_find_x9_5g-14235.php",
     "name": "Oppo Find X9 5G",
     "description": "A premium Oppo phone combining a bright display, flagship-level cameras and fast charging.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x9.jpg",
-    "specifications": {"Overview": {"Display": "6.7-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity flagship", "Main camera": "50 MP triple camera", "Battery": "5630 mAh", "Charging": "80W wired", "Network": "GSM / HSPA / LTE / 5G"}}
+    "specifications": {
+      "Overview": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Chipset": "MediaTek Dimensity flagship",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5630 mAh",
+        "Charging": "80W wired",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
+    }
   },
   {
     "slug": "oneplus_12-12725.php",
     "name": "OnePlus 12",
     "description": "A fast flagship with a high-refresh-rate AMOLED display, strong cameras and all-day battery life.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg",
-    "specifications": {"Overview": {"Display": "6.82-inch LTPO AMOLED, 120Hz", "Chipset": "Snapdragon 8 Gen 3", "Main camera": "50 MP triple camera", "Battery": "5400 mAh", "Charging": "100W wired, 50W wireless", "Network": "GSM / HSPA / LTE / 5G"}}
+    "specifications": {
+      "Overview": {
+        "Display": "6.82-inch LTPO AMOLED, 120Hz",
+        "Chipset": "Snapdragon 8 Gen 3",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5400 mAh",
+        "Charging": "100W wired, 50W wireless",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
+    }
   },
   {
     "slug": "honor_magic_v3-13202.php",
     "name": "Honor Magic V3",
     "description": "A slim foldable phone with a large inner display, flagship cameras and flexible productivity features.",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v3.jpg",
-    "specifications": {"Overview": {"Display": "7.92-inch foldable LTPO OLED, 120Hz", "Chipset": "Snapdragon 8 Gen 3", "Main camera": "50 MP triple camera", "Battery": "5150 mAh", "Charging": "66W wired, 50W wireless", "Network": "GSM / HSPA / LTE / 5G"}}
+    "specifications": {
+      "Overview": {
+        "Display": "7.92-inch foldable LTPO OLED, 120Hz",
+        "Chipset": "Snapdragon 8 Gen 3",
+        "Main camera": "50 MP triple camera",
+        "Battery": "5150 mAh",
+        "Charging": "66W wired, 50W wireless",
+        "Network": "GSM / HSPA / LTE / 5G"
+      }
+    }
+  },
+  {
+    "slug": "samsung_galaxy_s26_ultra_5g-14320.php",
+    "name": "Samsung Galaxy S26 Ultra",
+    "description": "",
+    "image_url": "",
+    "gsmarena_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-14320.php",
+    "compare_url": "https://www.gsmarena.com/compare.php3",
+    "review_url": "https://www.gsmarena.com/reviews.php3",
+    "pictures_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-pictures-14320.php",
+    "price_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-price-14320.php",
+    "opinions_url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-reviews-14320.php",
+    "specifications": {
+      "General": {
+        "Go": "Advanced",
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (CA), 5G",
+        "Announced": "2026, February 25",
+        "Status": "Available. Released 2026, March 06",
+        "Dimensions": "163.6 x 78.1 x 7.9 mm (6.44 x 3.07 x 0.31 in)",
+        "Weight": "214 g (7.55 oz)",
+        "Build": "Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN",
+        "Type": "Li-Ion 5000 mAh",
+        "Size": "6.9 inches, 115.9 cm 2 (~90.7% screen-to-body ratio)",
+        "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~500 ppi density)",
+        "Protection": "Corning Gorilla Armor 2, Mohs level 6",
+        "OS": "Android 16, up to 7 major OS updates, One UI 8.5",
+        "Chipset": "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840 (1.3GHz)",
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+        "Quad": "200 MP, f/1.4, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 50 MP, f/2.9, 111mm (periscope telephoto), 1/2.52\", 0.7µm, PDAF, OIS, 5x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.5\", 0.7µm, dual pixel PDAF, Super Steady video",
+        "Features": "HDR, HDR10+",
+        "Video": "4K@30/60fps, 1080p@30fps",
+        "Single": "12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF",
+        "Loudspeaker": "-25.9 LUFS (Very good)",
+        "3.5mm jack": "No",
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Charging": "60W wired, PD3.0, 75% in 30 min 25W wireless (Qi2.2) 4.5W reverse wireless",
+        "Colors": "Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold",
+        "Models": "SM-S948B, SM-S948B/DS, SM-S948U, SM-S948U1, SM-S948W, SM-S948N, SM-S9480, SM-S948E, SM-S948E/DS",
+        "SAR": "1.09 W/kg (head) 1.19 W/kg (body)",
+        "SAR EU": "1.28 W/kg (head) 1.35 W/kg (body)",
+        "Price": "$ 969.99 / € 929.00 / £ 774.29 / ₹ 116,899",
+        "Performance": "AnTuTu: 2627986 (v10), 3892165 (v11) GeekBench: 11566 (v6) 3DMark: 7744 (Wild Life Extreme)",
+        "Display": "1480 nits max brightness (measured)",
+        "Battery": "55:00h endurance, 1200 cycles",
+        "Energy": "Class A",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    }
   }
 ]
