@@ -13,7 +13,7 @@ from urllib.robotparser import RobotFileParser
 
 from bs4 import BeautifulSoup
 
-from import_gsmarena import USER_AGENT, extract_phone, fetch
+from import_gsmarena import USER_AGENT, catalog_key, extract_phone, fetch
 
 BASE_URL = "https://www.gsmarena.com/"
 MAKERS_URL = urljoin(BASE_URL, "makers.php3")
@@ -125,7 +125,7 @@ def sync_catalog(args: argparse.Namespace) -> tuple[int, int, int]:
         makers = makers[: args.max_makers]
     phone_urls = discover_phones(makers, policy, args.delay, args.max_list_pages, args.max_phones)
     catalog = load_catalog(args.data)
-    by_slug = {str(item["slug"]): item for item in catalog}
+    by_slug = {catalog_key(str(item["slug"])): item for item in catalog}
     imported = 0
     skipped = 0
 
@@ -140,7 +140,7 @@ def sync_catalog(args: argparse.Namespace) -> tuple[int, int, int]:
             if not phone.get("name") or not phone.get("slug"):
                 skipped += 1
                 continue
-            by_slug[str(phone["slug"])] = phone
+            by_slug[catalog_key(str(phone["slug"]))] = phone
             imported += 1
             print(f"Imported {index}/{len(phone_urls)}: {phone['name']}")
         except (OSError, ValueError) as error:

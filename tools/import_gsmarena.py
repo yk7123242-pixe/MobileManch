@@ -11,6 +11,7 @@ import time
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, build_opener
+from urllib.error import HTTPError, URLError
 from urllib.robotparser import RobotFileParser
 
 from bs4 import BeautifulSoup
@@ -45,12 +46,24 @@ def can_fetch(url: str) -> bool:
 
 def fetch(url: str) -> str:
     request = Request(url, headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.8"})
-    with build_opener().open(request, timeout=30) as response:
-        return response.read().decode("utf-8", errors="replace")
+    last_error: OSError | None = None
+    for attempt in range(3):
+        try:
+            with build_opener().open(request, timeout=30) as response:
+                return response.read().decode("utf-8", errors="replace")
+        except (HTTPError, URLError, TimeoutError) as error:
+            last_error = error
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+    raise OSError(f"Could not fetch {url} after 3 attempts: {last_error}")
 
 
 def clean_text(value: str | None) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+def catalog_key(slug: str) -> str:
+    return re.sub(r"_5g(?=-\d+\.php$)", "", slug, flags=re.IGNORECASE)
 
 
 def first_text(soup: BeautifulSoup, selectors: tuple[str, ...]) -> str:
@@ -65,14 +78,29 @@ def first_text(soup: BeautifulSoup, selectors: tuple[str, ...]) -> str:
 
 def extract_specs(soup: BeautifulSoup) -> dict[str, dict[str, str]]:
     specs: dict[str, dict[str, str]] = {}
-    current_section = "General"
-    for element in soup.select("h2, h3, table"):
-        if element.name in {"h2", "h3"}:
-            heading = clean_text(element.get_text(" ", strip=True))
+    spec_tables = soup.select("#specs-list table") or soup.select("table")
+    for table in spec_tables:
+        current_section = "General"
+        last_label = ""
+        for row in table.select("tr"):
+            heading = row.select_one("th[colspan], th[scope='col']")
             if heading:
-                current_section = heading
-            continue
-        for row in element.select("tr"):
+                current_section = clean_text(heading.get_text(" ", strip=True)) or current_section
+                continue
+            label_cell = row.select_one(".ttl")
+            value_cell = row.select_one(".nfo")
+            if label_cell and value_cell:
+                label = clean_text(label_cell.get_text(" ", strip=True))
+                value = clean_text(value_cell.get_text(" ", strip=True))
+                if not value:
+                    continue
+                if not label:
+                    label = last_label
+                if label and value:
+                    section = specs.setdefault(current_section, {})
+                    section[label] = f"{section[label]} | {value}" if label in section else value
+                    last_label = label
+                continue
             cells = [clean_text(cell.get_text(" ", strip=True)) for cell in row.select("th, td")]
             cells = [cell for cell in cells if cell]
             if len(cells) >= 2:
@@ -197,7 +225,8 @@ def main() -> int:
 
         args.data.parent.mkdir(parents=True, exist_ok=True)
         existing = json.loads(args.data.read_text(encoding="utf-8")) if args.data.exists() else []
-        existing = [item for item in existing if item.get("slug") != phone["slug"]]
+        phone_key = catalog_key(str(phone["slug"]))
+        existing = [item for item in existing if catalog_key(str(item.get("slug", ""))) != phone_key]
         existing.append(phone)
         args.data.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
