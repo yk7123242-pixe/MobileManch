@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-20T14:25:01.440018+00:00",
+    "last_updated": "2026-08-20T17:14:05.896768+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "Honor 700 series details leak alongside information about the Magic9, Win2, and Power3",
+            "link": "https://www.gsmarena.com/honor_700_series_details_leak_along_with_the_magic9_win2_and_power3-news-74264.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-c20dedf099.jpg"
+        },
+        {
+            "title": "iQOO Z11 hands-on",
+            "link": "https://www.gsmarena.com/iqoo_z11_hands_on-news-74269.php",
+            "image": "mobilemanch-site-1/assets/news/news-02-c7455b3a8e.jpg"
+        },
+        {
             "title": "CMF Buds Neo goes official with ANC and up to 52 hour total battery life",
             "link": "https://www.gsmarena.com/cmf_buds_neo_goes_official_with_anc_and_up_to_52_hour_total_battery_life-news-74263.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-9af978e4db.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-03-9af978e4db.jpg"
         },
         {
             "title": "Huawei Pura X View unveiled with a 16:9.5 wide display, 7,000mAh battery",
             "link": "https://www.gsmarena.com/huaweis_nonfolding_widescreen_phone_design_and_key_specs_leak-news-74261.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-ecf697241e.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-ecf697241e.jpg"
         },
         {
             "title": "The Google Pixel 11 series is now on sale",
             "link": "https://www.gsmarena.com/the_google_pixel_11_series_is_now_on_sale-news-74266.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-6769145e4b.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-6769145e4b.jpg"
         },
         {
             "title": "Sony is launching a new Xperia phone next week",
             "link": "https://www.gsmarena.com/sony_is_launching_a_new_xperia_phone_next_week-news-74262.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-2177a06d81.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-2177a06d81.jpg"
         },
         {
             "title": "Sony Xperia 10 VIII runs Geekbench",
             "link": "https://www.gsmarena.com/sony_xperia_10_viii_runs_geekbench-news-74258.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-03c85f5939.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-03c85f5939.jpg"
         },
         {
             "title": "Samsung showcases a 300Hz OLED display for gaming laptops among other cutting-edge display tech",
             "link": "https://www.gsmarena.com/samsung_showcases_a_300hz_oled_display_for_gaming_laptops_among_other_cuttingedge_display_tech-news-74257.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-2e2293a9f4.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-2e2293a9f4.jpg"
         },
         {
             "title": "Apple Watch Series 12 to mark the return of a long-lost material",
             "link": "https://www.gsmarena.com/apple_watch_series_12_to_mark_the_return_of_a_longlost_material-news-74254.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-e257fda0bc.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-e257fda0bc.jpg"
         },
         {
             "title": "iQOO Z11 debuts in India with different specs and design, Buds TWS tag along",
             "link": "https://www.gsmarena.com/iqoo_z11_debuts_in_india_with_different_specs_and_design_buds_tws_tag_along-news-74256.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-56c083ee9a.jpg"
-        },
-        {
-            "title": "Samsung is already working on the Galaxy A58 and Galaxy XCover FR",
-            "link": "https://www.gsmarena.com/samsung_is_already_working_on_the_galaxy_a58_and_galaxy_xcover_fr-news-74253.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-6f4d871167.jpg"
-        },
-        {
-            "title": "Sony WH-1000XM4C images leak along with spec details",
-            "link": "https://www.gsmarena.com/sony_wh1000xm4c_images_leak_along_with_spec_details-news-74251.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-37df4248d0.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-56c083ee9a.jpg"
         }
     ]
 }
