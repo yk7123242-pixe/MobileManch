@@ -61,5 +61,103 @@
         "Repairability": "Class B"
       }
     }
+  },
+  {
+    "slug": "samsung_galaxy_s26_ultra-14320.php",
+    "name": "Samsung Galaxy S26 Ultra",
+    "description": "A premium flagship with a 200MP camera, Snapdragon performance and a bright high-refresh-rate display.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-ultra.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.9-inch Dynamic AMOLED 2X, 120Hz", "Chipset": "Snapdragon 8 Gen 5", "Main camera": "200 MP", "Battery": "5000 mAh", "Network": "GSM / HSPA / LTE / 5G", "Status": "Available"}
+    }
+  },
+  {
+    "slug": "oneplus_14-00001.php",
+    "name": "OnePlus 14",
+    "description": "A speed-focused flagship built around fast performance, smooth display technology and 120W charging.",
+    "image_url": "https://m.media-amazon.com/images/I/31gmZa0jImL._SL500_.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 8 flagship platform", "Main camera": "50 MP triple camera", "Battery": "6000 mAh", "Charging": "120W wired", "Network": "GSM / HSPA / LTE / 5G"}
+    }
+  },
+  {
+    "slug": "redmi_note_15_pro-00001.php",
+    "name": "Redmi Note 15 Pro",
+    "description": "A value-focused phone with an AMOLED display, high-resolution camera and dependable all-day battery.",
+    "image_url": "https://m.media-amazon.com/images/I/41DpNYFTQ0L._SL500_.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.7-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity series", "Main camera": "108 MP", "Battery": "5000 mAh", "Network": "GSM / HSPA / LTE / 5G", "Status": "Available"}
+    }
+  },
+  {
+    "slug": "iphone_17-00001.php",
+    "name": "iPhone 17",
+    "description": "Apple's mainstream flagship with the A19 chip, improved camera processing and a polished iOS experience.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.3-inch Super Retina OLED", "Chipset": "Apple A19", "Main camera": "48 MP dual camera", "Battery": "All-day battery", "OS": "iOS", "Network": "GSM / HSPA / LTE / 5G"}
+    }
+  },
+  {
+    "slug": "realme_gt_8_pro-00001.php",
+    "name": "Realme GT 8 Pro",
+    "description": "A performance and gaming phone with a high-refresh-rate panel, flagship processor and advanced cooling.",
+    "image_url": "https://m.media-amazon.com/images/I/31GjR50dRPL._SL500_.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.78-inch AMOLED, 144Hz", "Chipset": "Snapdragon 8 flagship platform", "Main camera": "50 MP triple camera", "Battery": "5500 mAh", "Charging": "Fast wired charging", "Network": "GSM / HSPA / LTE / 5G"}
+    }
+  },
+  {
+    "slug": "vivo_v40-00001.php",
+    "name": "vivo V40",
+    "description": "A slim camera-focused phone with portrait photography features, a bright display and 5G connectivity.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v40.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 7 Gen series", "Main camera": "50 MP dual camera", "Battery": "5500 mAh", "Charging": "80W wired", "Network": "GSM / HSPA / LTE / 5G"}
+    }
+  },
+  {
+    "slug": "samsung_galaxy_a56-13603.php",
+    "name": "Samsung Galaxy A56 5G",
+    "description": "A balanced mid-range phone with a bright AMOLED display, capable cameras and long-term software support.",
+    "image_url": "https://m.media-amazon.com/images/I/31GjR50dRPL._SL500_.jpg",
+    "specifications": {
+      "Overview": {"Display": "6.7-inch Super AMOLED, 120Hz", "Chipset": "Exynos 1580", "Main camera": "50 MP triple camera", "Battery": "5000 mAh", "Charging": "45W wired", "Network": "GSM / HSPA / LTE / 5G"}
+    }
+  },
+  {
+    "slug": "xiaomi_17t_5g-14652.php",
+    "name": "Xiaomi 17T 5G",
+    "description": "A high-value 5G phone with generous storage, a smooth display and fast everyday performance.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17t-5g.jpg",
+    "specifications": {"Overview": {"Display": "6.67-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity series", "Main camera": "50 MP triple camera", "Battery": "5500 mAh", "Network": "GSM / HSPA / LTE / 5G"}}
+  },
+  {
+    "slug": "honor_600_5g-14605.php",
+    "name": "Honor 600 5G",
+    "description": "A modern 5G phone with a high-resolution camera, large battery and premium styling.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/honor-600-5g.jpg",
+    "specifications": {"Overview": {"Display": "6.78-inch AMOLED, 120Hz", "Chipset": "Snapdragon 7 Gen series", "Main camera": "200 MP", "Battery": "6000 mAh", "Network": "GSM / HSPA / LTE / 5G"}}
+  },
+  {
+    "slug": "oppo_find_x9_5g-14235.php",
+    "name": "Oppo Find X9 5G",
+    "description": "A premium Oppo phone combining a bright display, flagship-level cameras and fast charging.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x9.jpg",
+    "specifications": {"Overview": {"Display": "6.7-inch AMOLED, 120Hz", "Chipset": "MediaTek Dimensity flagship", "Main camera": "50 MP triple camera", "Battery": "5630 mAh", "Charging": "80W wired", "Network": "GSM / HSPA / LTE / 5G"}}
+  },
+  {
+    "slug": "oneplus_12-12725.php",
+    "name": "OnePlus 12",
+    "description": "A fast flagship with a high-refresh-rate AMOLED display, strong cameras and all-day battery life.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg",
+    "specifications": {"Overview": {"Display": "6.82-inch LTPO AMOLED, 120Hz", "Chipset": "Snapdragon 8 Gen 3", "Main camera": "50 MP triple camera", "Battery": "5400 mAh", "Charging": "100W wired, 50W wireless", "Network": "GSM / HSPA / LTE / 5G"}}
+  },
+  {
+    "slug": "honor_magic_v3-13202.php",
+    "name": "Honor Magic V3",
+    "description": "A slim foldable phone with a large inner display, flagship cameras and flexible productivity features.",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/honor-magic-v3.jpg",
+    "specifications": {"Overview": {"Display": "7.92-inch foldable LTPO OLED, 120Hz", "Chipset": "Snapdragon 8 Gen 3", "Main camera": "50 MP triple camera", "Battery": "5150 mAh", "Charging": "66W wired, 50W wireless", "Network": "GSM / HSPA / LTE / 5G"}}
   }
 ]

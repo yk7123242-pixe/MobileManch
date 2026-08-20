@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MobileManch Details</title>
+    <link rel="stylesheet" href="mobilemanch-site-1/assets/css/styles.css">
+    <style>
+        .detail-page{min-height:100vh;padding:42px 0 70px;background:var(--bg)}
+        .detail-header{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-bottom:28px}
+        .detail-header h1{margin:0;font-size:clamp(28px,4vw,46px)}
+        .back-link{color:var(--gold);font-weight:800}
+        .detail-content{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden}
+        .detail-content>section,.detail-content>footer{margin:0!important}
+        .loading{padding:60px;text-align:center;color:var(--muted)}
+        @media (max-width:600px){.detail-page{padding-top:24px}.detail-header{align-items:flex-start;flex-direction:column}.detail-content{border-radius:10px}}
+    </style>
+</head>
+<body>
+    <main class="detail-page">
+        <div class="container">
+            <div class="detail-header">
+                <h1 id="page-title">MobileManch</h1>
+                <a class="back-link" href="index.html#top">Back to Home</a>
+            </div>
+            <div id="page-content" class="detail-content">
+                <p class="loading">Loading details...</p>
+            </div>
+        </div>
+    </main>
+    <script src="mobilemanch-site-1/assets/js/main.js"></script>
+    <script src="mobilemanch-site-1/assets/js/details.js"></script>
+</body>
+</html>
