@@ -1,0 +1,26 @@
+.device-nav{display:flex;align-items:center;justify-content:space-between;min-height:72px;gap:20px}
+.device-brand{font-size:26px;font-weight:850;color:var(--text)}
+.device-brand span{color:var(--gold)}
+.device-back{color:var(--gold);font-size:14px;font-weight:800}
+.device-page{padding:44px 0 70px}
+.device-loading,.device-error{padding:28px;background:var(--card);border:1px solid var(--border);border-radius:14px;color:var(--muted)}
+.device-hero{display:grid;grid-template-columns:280px 1fr;gap:30px;align-items:start;margin-bottom:28px}
+.device-poster{width:100%;height:360px;object-fit:contain;background:linear-gradient(145deg,#e8f1f8,#fffaf0);border:1px solid var(--border);border-radius:16px;padding:18px}
+.device-kicker{color:var(--gold);font-size:12px;font-weight:850;letter-spacing:1.5px;text-transform:uppercase}
+.device-title{font-size:clamp(30px,5vw,52px);line-height:1.08;margin:8px 0 14px}
+.device-description{color:var(--muted);font-size:16px;max-width:720px;margin-bottom:20px}
+.device-actions{display:flex;gap:10px;flex-wrap:wrap}
+.device-action{display:inline-block;padding:10px 14px;border:1px solid var(--border);border-radius:8px;color:var(--text);font-size:13px;font-weight:800;background:var(--card)}
+.device-action.primary{background:var(--navy);border-color:var(--navy);color:#fff}
+.device-action:hover{border-color:var(--gold);color:var(--gold)}
+.device-highlights{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:26px 0}
+.device-highlight{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:15px}
+.device-highlight strong{display:block;color:var(--text);font-size:15px;margin-top:3px}
+.device-highlight span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.7px}
+.spec-section{background:var(--card);border:1px solid var(--border);border-radius:14px;margin-top:18px;overflow:hidden}
+.spec-section h2{font-size:20px;padding:16px 18px;background:var(--card2);border-bottom:1px solid var(--border)}
+.spec-table{width:100%;border-collapse:collapse}
+.spec-table td{padding:12px 18px;border-top:1px solid var(--border);font-size:13px;vertical-align:top}
+.spec-table td:first-child{width:28%;color:var(--gold);font-weight:800}
+.spec-table td:last-child{color:var(--muted)}
+@media(max-width:700px){.device-hero{grid-template-columns:1fr}.device-poster{height:280px}.device-highlights{grid-template-columns:repeat(2,minmax(0,1fr))}.device-nav{padding:0 20px}.spec-table td{display:block;width:auto!important}.spec-table td+td{padding-top:0;border-top:0}}
