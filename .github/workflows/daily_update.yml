@@ -1,8 +1,8 @@
-name: Auto Update GSMArena News
+name: Auto Update GSMArena Data
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -27,11 +28,14 @@ jobs:
       - name: Run scraper
         run: python update_site.py
 
-      - name: Commit and push updates.json
+      - name: Sync GSMArena phone catalog
+        run: python tools/sync_gsmarena_catalog.py --max-phones 500 --max-list-pages 3 --delay 1
+
+      - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add updates.json mobilemanch-site-1/assets/news
+          git add updates.json mobilemanch-site-1/assets/news data/gsmarena_mobiles.json
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update GSMArena news"
+          git commit -m "chore: update GSMArena data"
           git push

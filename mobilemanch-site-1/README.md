@@ -60,6 +60,16 @@ The root `update_site.py` fetches the latest ten GSMArena news titles, links, an
 
 The workflow requests `contents: write` permission and commits only when `updates.json` changes. If GitHub repository settings override workflow permissions, enable **Settings > Actions > General > Workflow permissions > Read and write permissions**.
 
+## Phone catalog synchronization
+
+The bulk synchronizer discovers public phone pages from GSMArena manufacturer lists, imports specifications into `data/gsmarena_mobiles.json`, merges records by slug, and keeps existing records when an individual page fails:
+
+```bash
+python tools/sync_gsmarena_catalog.py --max-phones 500 --max-list-pages 3 --delay 1
+```
+
+The GitHub Actions workflow runs this catalog sync and the news scraper every two hours. It respects `robots.txt`, uses a one-second request delay, and limits each run to 500 phone pages so scheduled jobs do not overload the source. Increase `--max-phones` only when the run time and GSMArena's terms allow it. The importer stores metadata and specifications; it does not copy full review articles.
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
