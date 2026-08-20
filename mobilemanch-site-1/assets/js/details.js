@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             const latestNews = source.querySelector("#latest-news");
             if (latestNews) content.append(latestNews.cloneNode(true));
         }
+        if (window.localizeGsmarenaLinks) window.localizeGsmarenaLinks(content);
         if (key === "news") {
             const newsContainer = content.querySelector("#gsmarena-news-container");
             if (newsContainer && window.loadGsmarenaNews) {

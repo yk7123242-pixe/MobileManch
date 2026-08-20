@@ -1,3 +1,21 @@
+function localDetailsPath(section) {
+	const base = window.location.pathname.includes("/mobilemanch-site-1/") ? "../details.html" : "details.html";
+	return `${base}?section=${section}`;
+}
+
+function localizeGsmarenaLinks(root = document) {
+	root.querySelectorAll('a[href*="gsmarena.com"]').forEach((link) => {
+		const href = link.getAttribute("href") || "";
+		let section = "news";
+		if (href.includes("compare")) section = "compare";
+		if (href.includes("deals")) section = "deals";
+		if (href.includes("search") || href.includes("-phones-")) section = "finder";
+		link.href = localDetailsPath(section);
+		link.removeAttribute("target");
+		link.removeAttribute("rel");
+	});
+}
+
 function loadGsmarenaNews(container) {
 	const updatesPath = container.dataset.updatesPath || "updates.json";
 
@@ -55,6 +73,7 @@ function loadGsmarenaNews(container) {
 				item.append(number, content);
 				container.append(item);
 			});
+			localizeGsmarenaLinks(container);
 		})
 		.catch((error) => {
 			console.warn("GSMArena updates are unavailable; showing fallback news.", error);
@@ -64,6 +83,7 @@ function loadGsmarenaNews(container) {
 window.loadGsmarenaNews = loadGsmarenaNews;
 
 document.addEventListener("DOMContentLoaded", () => {
+	localizeGsmarenaLinks();
 	const container = document.querySelector("#gsmarena-news-container");
 	if (container) loadGsmarenaNews(container);
 });
