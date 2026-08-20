@@ -1,10 +1,7 @@
-document.addEventListener("DOMContentLoaded", () => {
-	const container = document.querySelector("#gsmarena-news-container");
-	if (!container) return;
-
+function loadGsmarenaNews(container) {
 	const updatesPath = container.dataset.updatesPath || "updates.json";
 
-	fetch(updatesPath, { cache: "no-store" })
+	return fetch(updatesPath, { cache: "no-store" })
 		.then((response) => {
 			if (!response.ok) throw new Error(`HTTP ${response.status}`);
 			return response.json();
@@ -62,4 +59,11 @@ document.addEventListener("DOMContentLoaded", () => {
 		.catch((error) => {
 			console.warn("GSMArena updates are unavailable; showing fallback news.", error);
 		});
+}
+
+window.loadGsmarenaNews = loadGsmarenaNews;
+
+document.addEventListener("DOMContentLoaded", () => {
+	const container = document.querySelector("#gsmarena-news-container");
+	if (container) loadGsmarenaNews(container);
 });
