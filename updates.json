@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-21T08:04:18.080560+00:00",
+    "last_updated": "2026-08-21T11:02:17.243575+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "Poco M8x arrives with the Snapdragon 4 Gen 5 SoC, a 120Hz display, and a 7,900 mAh battery",
+            "link": "https://www.gsmarena.com/poco_m8x_features_price_sale_date-news-74281.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-354c44845a.jpg"
+        },
+        {
+            "title": "OnePlus tipped to launch a new budget phone in India",
+            "link": "https://www.gsmarena.com/oneplus_tipped_to_launch_a_new_budget_phone_in_india-news-74275.php",
+            "image": "mobilemanch-site-1/assets/news/news-02-cda156a01f.jpg"
+        },
+        {
+            "title": "Infinix Hot 70 Pro's India launch timeframe announced, color options revealed",
+            "link": "https://www.gsmarena.com/infinix_hot_70_pro_india_launch_timeframe_colors-news-74276.php",
+            "image": "mobilemanch-site-1/assets/news/news-03-3b951503b2.jpg"
+        },
+        {
             "title": "Here's when Nothing OS 5.0 based on Android 17 is getting unveiled",
             "link": "https://www.gsmarena.com/heres_when_nothing_os_50_based_on_android_17_is_getting_unveiled-news-74273.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-6add1eb8f3.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-6add1eb8f3.jpg"
         },
         {
             "title": "Poco F9 Ultra runs Geekbench confirming its chipset and RAM amount",
             "link": "https://www.gsmarena.com/poco_f9_ultra_runs_geekbench_confirming_its_chipset_and_ram_amount-news-74274.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-010ab91254.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-010ab91254.jpg"
         },
         {
             "title": "Counterpoint: European smartphone shipments drop to three year low",
             "link": "https://www.gsmarena.com/european_smartphone_shipments_drop_to_three_year_low-news-74271.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-7e9f0537de.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-7e9f0537de.jpg"
         },
         {
             "title": "New Samsung Galaxy A08 certification reveals a jump in battery capacity",
             "link": "https://www.gsmarena.com/new_samsung_galaxy_a08_certification_reveals_a_jump_in_battery_capacity-news-74265.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-a2105f64ca.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-a2105f64ca.jpg"
         },
         {
             "title": "Redmi Watch 6 Active is now official with a big battery and 140 sports modes",
             "link": "https://www.gsmarena.com/redmi_watch_6_active_is_now_official_with_a_big_battery_and_140_sports_modes-news-74272.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-070a736cd9.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-070a736cd9.jpg"
         },
         {
             "title": "Samsung Galaxy Tab S12+ and S12 Ultra prices leak",
             "link": "https://www.gsmarena.com/samsung_galaxy_tab_s12_and_s12_ultra_prices_leak-news-74268.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-7f4d04e505.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-7f4d04e505.jpg"
         },
         {
             "title": "Samsung's One UI 9.5 might use AI to let you design custom widgets, leak shows",
             "link": "https://www.gsmarena.com/samsungs_one_ui_95_might_use_ai_to_let_you_design_custom_widgets_leak_shows-news-74270.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-cfd22326d4.jpg"
-        },
-        {
-            "title": "Despite leaked demo, Apple's camera-equipped AirPods still reportedly set for 2027 launch",
-            "link": "https://www.gsmarena.com/despite_leaked_demo_apples_cameraequipped_airpods_still_reportedly_set_for_2027_launch-news-74255.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-7e1302b3ce.jpg"
-        },
-        {
-            "title": "Samsung is now charging up to 15% more for the chips it makes, insiders say",
-            "link": "https://www.gsmarena.com/samsung_is_now_charging_up_to_15_more_for_the_chips_it_makes_insiders_say-news-74259.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-596ff6d8e1.jpg"
-        },
-        {
-            "title": "The big three US carriers are offering some Pixel 11 models for free, here is what you need to know",
-            "link": "https://www.gsmarena.com/the_big_three_us_carriers_are_offering_some_pixel_11_models_for_free_here_is_what_you_need_to_know-news-74260.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-96d44745c0.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-cfd22326d4.jpg"
         }
     ]
 }
