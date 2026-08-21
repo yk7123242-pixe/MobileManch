@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-21T14:06:14.695155+00:00",
+    "last_updated": "2026-08-21T17:14:38.423886+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "Epic Games thinks that Apple's new EU app store rules still violate the Digital Markets Act",
+            "link": "https://www.gsmarena.com/epic_games_thinks_that_apples_new_eu_app_store_rules_still_violate_the_digital_markets_act-news-74278.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-26c449bd89.jpg"
+        },
+        {
+            "title": "Poco X8 Power with 10,000mAh battery said to launch soon",
+            "link": "https://www.gsmarena.com/poco_x8_power_with_10000mah_battery_said_to_launch_soon-news-74277.php",
+            "image": "mobilemanch-site-1/assets/news/news-02-0a74c2ab16.jpg"
+        },
+        {
             "title": "Samsung Galaxy Z Flip8 unboxing",
             "link": "https://www.gsmarena.com/samsung_galaxy_z_flip8_unboxing-news-74173.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-82ab65585e.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-03-82ab65585e.jpg"
         },
         {
             "title": "Honor Turbo 5G silently unveiled",
             "link": "https://www.gsmarena.com/honor_turbo_5g_silently_unveiled-news-74280.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-c122e8397f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-c122e8397f.jpg"
         },
         {
             "title": "vivo V80 Lite with 10,000mAh battery to debut on September 3",
             "link": "https://www.gsmarena.com/vivo_v80_lite_with_10000mah_battery_to_debut_on_september_3-news-74282.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-bb7fa6582c.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-bb7fa6582c.jpg"
         },
         {
             "title": "Poco M8x arrives with the Snapdragon 4 Gen 5 SoC, a 120Hz display, and a 7,900 mAh battery",
             "link": "https://www.gsmarena.com/poco_m8x_features_price_sale_date-news-74281.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-354c44845a.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-354c44845a.jpg"
         },
         {
             "title": "OnePlus tipped to launch a new budget phone in India",
             "link": "https://www.gsmarena.com/oneplus_tipped_to_launch_a_new_budget_phone_in_india-news-74275.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-cda156a01f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-cda156a01f.jpg"
         },
         {
             "title": "Infinix Hot 70 Pro's India launch timeframe announced, color options revealed",
             "link": "https://www.gsmarena.com/infinix_hot_70_pro_india_launch_timeframe_colors-news-74276.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-3b951503b2.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-3b951503b2.jpg"
         },
         {
             "title": "Here's when Nothing OS 5.0 based on Android 17 is getting unveiled",
             "link": "https://www.gsmarena.com/heres_when_nothing_os_50_based_on_android_17_is_getting_unveiled-news-74273.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-6add1eb8f3.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-6add1eb8f3.jpg"
         },
         {
             "title": "Poco F9 Ultra runs Geekbench confirming its chipset and RAM amount",
             "link": "https://www.gsmarena.com/poco_f9_ultra_runs_geekbench_confirming_its_chipset_and_ram_amount-news-74274.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-010ab91254.jpg"
-        },
-        {
-            "title": "Counterpoint: European smartphone shipments drop to three year low",
-            "link": "https://www.gsmarena.com/european_smartphone_shipments_drop_to_three_year_low-news-74271.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-7e9f0537de.jpg"
-        },
-        {
-            "title": "New Samsung Galaxy A08 certification reveals a jump in battery capacity",
-            "link": "https://www.gsmarena.com/new_samsung_galaxy_a08_certification_reveals_a_jump_in_battery_capacity-news-74265.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-a2105f64ca.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-010ab91254.jpg"
         }
     ]
 }
