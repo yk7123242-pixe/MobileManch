@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-22T16:54:33.101520+00:00",
+    "last_updated": "2026-08-22T19:02:23.068717+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "vivo T5 5G teased with a 3D curved display ahead of launch",
+            "link": "https://www.gsmarena.com/vivo_t5_5g_coming_soon-news-74295.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-7e9c4506de.jpg"
+        },
+        {
             "title": "Pixel 11 Pro Fold's durability test shows Google made the same mistake four times in a row",
             "link": "https://www.gsmarena.com/google_pixel_11_pro_fold_durability_test-news-74296.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-4a1191a5c1.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-02-4a1191a5c1.jpg"
         },
         {
             "title": "Here's the Sony Xperia 10 VIII that's expected to launch next week",
             "link": "https://www.gsmarena.com/sony_xperia_10_viii_design-news-74294.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-434b7bff22.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-03-434b7bff22.jpg"
         },
         {
             "title": "Deals: Pixel 11 lineup goes on sale, latest Galaxy phones get discounts",
             "link": "https://www.gsmarena.com/deals_pixel_11_lineup_goes_on_sale_latest_galaxy_phones_get_discounts-news-74293.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-39be3ebcf5.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-39be3ebcf5.jpg"
         },
         {
             "title": "iQOO is allegedly working on a small and powerful tablet",
             "link": "https://www.gsmarena.com/iqoo_is_allegedly_working_on_a_small_and_powerful_tablet-news-74291.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-1448571b24.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-1448571b24.jpg"
         },
         {
             "title": "vivo V70 Lite 4G arrives with 8,100mAh battery and IP69 rating",
             "link": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-d009c4d4cd.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-d009c4d4cd.jpg"
         },
         {
             "title": "Redmi Note 17 Pro and Redmi Note 17 Pro Max India launch date leaks along with pricing details",
             "link": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_india_launch_date_leaks_along_with_pricing_details-news-74290.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-4e2eb82f6f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-4e2eb82f6f.jpg"
         },
         {
             "title": "Poco X8 and X8 Power marketing materials leak",
             "link": "https://www.gsmarena.com/poco_x8_and_x8_power_marketing_materials_leak-news-74292.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-0d3479a522.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-0d3479a522.jpg"
         },
         {
             "title": "Here's how much you'll pay if you break the Honor Robot Phone's gimbal camera",
             "link": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-735037e6f9.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-735037e6f9.jpg"
         },
         {
             "title": "Samsung Galaxy S26 FE leaks in unboxing video",
             "link": "https://www.gsmarena.com/samsung_galaxy_s26_fe_leaks_in_unboxing_video-news-74285.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-a8f808125f.jpg"
-        },
-        {
-            "title": "A fix for the red tint issue on the Galaxy S26 Ultra may be coming later this month",
-            "link": "https://www.gsmarena.com/a_fix_for_the_red_tint_issue_on_the_galaxy_s26_ultra_may_be_coming_later_this_month-news-74279.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-dcae7eb711.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-a8f808125f.jpg"
         }
     ]
 }
