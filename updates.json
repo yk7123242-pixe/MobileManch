@@ -1,56 +1,56 @@
 {
-    "last_updated": "2026-08-22T03:08:28.245071+00:00",
+    "last_updated": "2026-08-22T05:04:13.347849+00:00",
     "source": "https://www.gsmarena.com/news.php3",
     "articles": [
         {
+            "title": "vivo V70 Lite 4G arrives with 8,100mAh battery and IP69 rating",
+            "link": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
+            "image": "mobilemanch-site-1/assets/news/news-01-d009c4d4cd.jpg"
+        },
+        {
             "title": "Redmi Note 17 Pro and Redmi Note 17 Pro Max India launch date leaks along with pricing details",
             "link": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_india_launch_date_leaks_along_with_pricing_details-news-74290.php",
-            "image": "mobilemanch-site-1/assets/news/news-01-4e2eb82f6f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-02-4e2eb82f6f.jpg"
         },
         {
             "title": "Poco X8 and X8 Power marketing materials leak",
             "link": "https://www.gsmarena.com/poco_x8_and_x8_power_marketing_materials_leak-news-74292.php",
-            "image": "mobilemanch-site-1/assets/news/news-02-0d3479a522.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-03-0d3479a522.jpg"
         },
         {
             "title": "Here's how much you'll pay if you break the Honor Robot Phone's gimbal camera",
             "link": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
-            "image": "mobilemanch-site-1/assets/news/news-03-735037e6f9.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-04-735037e6f9.jpg"
         },
         {
             "title": "Samsung Galaxy S26 FE leaks in unboxing video",
             "link": "https://www.gsmarena.com/samsung_galaxy_s26_fe_leaks_in_unboxing_video-news-74285.php",
-            "image": "mobilemanch-site-1/assets/news/news-04-a8f808125f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-05-a8f808125f.jpg"
         },
         {
             "title": "A fix for the red tint issue on the Galaxy S26 Ultra may be coming later this month",
             "link": "https://www.gsmarena.com/a_fix_for_the_red_tint_issue_on_the_galaxy_s26_ultra_may_be_coming_later_this_month-news-74279.php",
-            "image": "mobilemanch-site-1/assets/news/news-05-dcae7eb711.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-06-dcae7eb711.jpg"
         },
         {
             "title": "RayNeo unveils productivity-focused iO glasses and multimedia-focused GT glasses",
             "link": "https://www.gsmarena.com/rayneo_unveils_productivity_focused_io_glasses_and_multimedia_focused_gt_glasses-news-74284.php",
-            "image": "mobilemanch-site-1/assets/news/news-06-ecce2a73bf.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-07-ecce2a73bf.jpg"
         },
         {
             "title": "Epic Games thinks that Apple's new EU app store rules still violate the Digital Markets Act",
             "link": "https://www.gsmarena.com/epic_games_thinks_that_apples_new_eu_app_store_rules_still_violate_the_digital_markets_act-news-74278.php",
-            "image": "mobilemanch-site-1/assets/news/news-07-26c449bd89.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-08-26c449bd89.jpg"
         },
         {
             "title": "Poco X8 Power with 10,000mAh battery said to launch soon",
             "link": "https://www.gsmarena.com/poco_x8_power_with_10000mah_battery_said_to_launch_soon-news-74277.php",
-            "image": "mobilemanch-site-1/assets/news/news-08-0a74c2ab16.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-09-0a74c2ab16.jpg"
         },
         {
             "title": "Samsung Galaxy Z Flip8 unboxing",
             "link": "https://www.gsmarena.com/samsung_galaxy_z_flip8_unboxing-news-74173.php",
-            "image": "mobilemanch-site-1/assets/news/news-09-82ab65585e.jpg"
-        },
-        {
-            "title": "Honor Turbo 5G silently unveiled",
-            "link": "https://www.gsmarena.com/honor_turbo_5g_silently_unveiled-news-74280.php",
-            "image": "mobilemanch-site-1/assets/news/news-10-c122e8397f.jpg"
+            "image": "mobilemanch-site-1/assets/news/news-10-82ab65585e.jpg"
         }
     ]
 }
